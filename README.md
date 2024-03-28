@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daminduprasadith&label=Profile%20views&color=0e75b6&style=flat" alt="daminduprasadith" /> </p>
 
-- 🌱 I’m currently learning **react typescript**
+-- 🌱 I’m currently learning **react typescript**
 
 - 👨‍💻 All of my projects are available at [test-one-deploy.vercel.app](test-one-deploy.vercel.app)
 
