@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **react typescript**
 
-- 👨‍💻 All of my projects are available at [test-one-deploy.vercel.app](test-one-deploy.vercel.app)
+- 👨‍💻 All of my projects are available at [test-one-deploy.vercel.app](https://test-one-deploy.vercel.app)
 
 - 📝 I regularly write articles on [https://codecraftcs.blogspot.com/](https://codecraftcs.blogspot.com/)
 
