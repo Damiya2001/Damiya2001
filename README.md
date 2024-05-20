@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi%20👋,%20I'm%20Damindu%20Prasadith)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi%20👋,%20I'm%10Damindu%10Prasadith)
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=daminduprasadith&label=Profile%20views&color=0e75b6&style=flat" alt="daminduprasadith" /> </p>
