@@ -29,4 +29,4 @@
 <h3 align="center">Languages and Tools:</h3>
 
 
-[![My Skills](https://skillicons.dev/icons?i=c,figma,tailwind,nodejs,jquery,,postgres,php,react,,vite,photoshop,git&theme=dark)] 
+![My Skills](https://skillicons.dev/icons?i=c,figma,tailwind,nodejs,jquery,postgres,php,react,vite,photoshop,git&theme=dark)
