@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **react typescript**
 
-- 👨‍💻 All of my projects are available at [test-one-deploy.vercel.app](https://test-one-deploy.vercel.app)
+- 👨‍💻 My Portfoilo [Portfolio]([https://test-one-deploy.vercel.app](https://portfolio-gilt-nu-64.vercel.app/))
 
 - 📝 I regularly write articles on [https://codecraftcs.blogspot.com/](https://codecraftcs.blogspot.com/)
 
